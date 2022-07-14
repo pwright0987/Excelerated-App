@@ -1,5 +1,5 @@
 # Excelerated-App
-Makes temp/humidity probe certification and preparation faster and easier
+Software to make Rees Scientific temp/humidity probe certification easier and faster
 
 - Uses excel manipulation to open and edit multiple excel file
 - Uses file browsing processes
